@@ -2,7 +2,7 @@
 **PROYECTO**
 
 **PROBLEMAS**
-Problema 1 : Ordenamiento
+\nProblema 1 : Ordenamiento
 https://youtu.be/0sGj8WO95SM
 https://leetcode.com/problems/arithmetic-subarrays/submissions/1105175985/?envType=daily-question
 
