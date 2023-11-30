@@ -1,6 +1,8 @@
 # TC1031-PROGRAMACION-DE-ESTRUCTURA-DE-DATOS-Y-ALGORITMOS-FUNDAMENTALES
-**PROYECTO**
-
+**PROYECTO**<br>
+Repositorio Premier League: Proyecto de visualizacion de estadisticas de futbol y busqueda eficiente de jugadores.
+<br>
+<br>
 **PROBLEMAS**<br>
 Problema 1 : Ordenamiento<br>
 https://youtu.be/0sGj8WO95SM<br>
